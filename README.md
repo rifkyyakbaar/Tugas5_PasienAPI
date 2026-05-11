@@ -8,7 +8,7 @@ Berikut adalah alur penggunaan aplikasi beserta dokumentasi fiturnya:
 
 | **Halaman Login Awal** | **Validasi Input** |
 |:---:|:---:|
-| ![Halaman Login](png1.png) | ![Error Validation](png2.png) |
+| ![Halaman Login](pic1.png) | ![Error Validation](pic2.png) |
 | *Tampilan awal saat aplikasi dibuka* | *Feedback jika email/password dikosongkan* |
 
 | **Proses Autentikasi** | **Daftar Data Pasien** |
