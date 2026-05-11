@@ -1,6 +1,6 @@
 # PasienAPI - Android Kotlin Application
 
-**PasienAPI** adalah aplikasi Android berbasis Kotlin yang dirancang untuk mengelola data pasien secara real-time melalui integrasi REST API. Proyek ini merupakan pemenuhan **Tugas 5 Mata Kuliah Pemrograman Mobile**, yang berfokus pada penggunaan Retrofit untuk autentikasi dan manajemen data online.
+**PasienAPI** adalah aplikasi Android berbasis Kotlin yang dirancang untuk mengelola data pasien secara real-time melalui integrasi REST API. Proyek ini merupakan pemenuhan **Tugas 5 Mata Kuliah Mobile Programming**, yang berfokus pada penggunaan Retrofit untuk autentikasi dan manajemen data online.
 
 ## Screenshots Aplikasi
 
